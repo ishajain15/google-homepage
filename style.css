@@ -67,8 +67,6 @@ html, body {
     color: #222;
   }
   
-  /* Header */
-  
   ul {
     display: flex;
     align-items: center;
@@ -76,20 +74,6 @@ html, body {
     margin: 0;
     padding: 0;
   }
-  /*
-  #header > ul {
-    padding: 15px;
-    overflow: hidden;
-    float: right;
-    height: 30px;
-  }
-  
-  #header > ul > li {
-    float: left;
-    margin: 0 10px;
-    font-size: 13px;
-  }
-  */
 
   #header ul {
       height: 30px;
@@ -158,8 +142,6 @@ html, body {
     text-align: center;
     color: #FFF;
   }
-  
-  /* Footer */
   
   #footer {
     background-color: #F2F2F2;
