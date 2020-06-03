@@ -1,0 +1,22 @@
+ul {
+    list-style-type: none;
+    margin: 22px 0 0 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    font-family: "Arial", "Sans-Serif";
+    font-size: 13px;
+}
+
+li.right {
+    float: right;
+    padding-right: 15px;
+}
+
+li.shortcut {
+    display: table;
+    margin: 0px auto 0px auto;
+}
+
